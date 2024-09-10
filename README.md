@@ -46,7 +46,7 @@ I hold a Bachelor of Engineering in Artificial Intelligence and Data Science fro
 
 ## 📫 Let's Connect!
 
-[LinkedIn][(https://www.linkedin.com/in/hariharan-murthy/)]
+[![LinkedIn](https://fontawesome.com/icons/linkedin?style=brands)(Hariharan M)](https://www.linkedin.com/in/hariharan-murthy/)
 <!---
 xhariix/xhariix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
