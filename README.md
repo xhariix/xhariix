@@ -46,11 +46,7 @@ I hold a Bachelor of Engineering in Artificial Intelligence and Data Science fro
 
 ## 📫 Let's Connect!
 
-<a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/hariharan-murthy/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Button">
-</a>
-
-
+[LinkedIn][(https://www.linkedin.com/in/hariharan-murthy/)]
 <!---
 xhariix/xhariix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
