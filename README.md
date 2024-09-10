@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hariharan M!
 
-🚀 Artificial Intelligence Enthusiast | Data Scientist | Data Analyst | Machine Learning Engineer | Cloud AI practioner | Big Data Analytics|  
+🚀|| Artificial Intelligence Engineer || Data Scientist || Data Analyst || Building ML models || Cloud AI practioner || Big Data Analytics ||  
 
 ### 🧑‍💻 About Me:
 
@@ -39,9 +39,9 @@ I hold a Bachelor of Engineering in Artificial Intelligence and Data Science fro
 
 ### - 🌱 I’m currently learning:
   
-->Advanced Machine Learning
-->GEN AI
-->Cloud Technologies for AI and ML
+- Advanced Machine Learning
+- GEN AI
+- Cloud Technologies for AI and ML
 
 
 ## 📫 Let's Connect!
