@@ -1,68 +1,137 @@
-### Hi there 👋 I'm Hariharan M!
+# Hariharan M
+Artificial Intelligence Engineer | Machine Learning Engineer | Data Scientist  
 
-🚀|| Artificial Intelligence Engineer || Data Scientist || Data Analyst || Building ML models || Cloud AI practioner || Big Data Analytics ||  
+---
 
-### 🧑‍💻 About Me:
+## About Me
 
-I hold a Bachelor of Engineering in Artificial Intelligence and Data Science from East Point College of Engineering and Technology. Driven by a passion for Artificial Intelligence, I've developed expertise in Data Analysis, Data Visualization, Python Programming, Machine Learning, and Deep Learning. Recently, I've expanded my interests to include cloud computing integrated with AI, exploring cloud-based solutions. I'm excited to leverage my skills in AI, data science, and cloud computing to drive innovation and growth.
-### 🛠️ Technologies & Tools
+I am an Artificial Intelligence and Data Science graduate with a strong foundation in machine learning, deep learning, and statistical modeling. My work focuses on building scalable, data-driven systems with mathematical depth and production-level implementation standards.
 
-- **Languages:** 🐍  
-  Python, SQL, R  
+I am particularly interested in:
+- Advanced Machine Learning & Optimization
+- Deep Learning Architectures
+- Generative AI
+- MLOps & Model Deployment
+- Cloud-based AI Systems
+- Large-scale Data Engineering
 
-- **Data Analysis:** 📊  
-  Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+My goal is to bridge research-level understanding with real-world ML engineering.
 
-- **Machine Learning:** 🤖  
-  Scikit-learn, TensorFlow, Keras  
+---
 
-- **Deep Learning:** 🧬  
-  TensorFlow, Keras  
+## Core Technical Skills
 
-- **Data Visualization:** 📈  
-  Tableau, Matplotlib, Seaborn  
+### Programming
+- Python
+- SQL
+- R
 
-- **NLP:** 🗣️  
-  NLTK, spaCy, Transformers  
+### Machine Learning
+- Linear & Logistic Regression
+- Decision Trees & Random Forest
+- Support Vector Machines
+- KNN
+- Naive Bayes
+- Gradient Boosting
+- XGBoost, LightGBM, CatBoost
+- Feature Engineering & Model Optimization
+- Model Evaluation & Cross-Validation
 
-- **Database Management:** 🐘  
-  MySQL, PostgreSQL  
+### Unsupervised Learning
+- K-Means
+- Hierarchical Clustering
+- DBSCAN
+- PCA, t-SNE
+- Gaussian Mixture Models
 
-- **Version Control:** 🔧  
-  Git, GitHub  
+### Deep Learning
+- Artificial Neural Networks
+- CNN
+- RNN, LSTM, GRU
+- Transfer Learning
+- Transformer-based Models
 
-- **Cloud Computing:** ☁️  
-  AWS, Azure, Google Cloud  
+Frameworks:
+- TensorFlow
+- Keras
+- PyTorch (Learning & Expanding)
 
-- **Others:** 🧮  
-  Excel, Power BI
+### Natural Language Processing
+- NLTK
+- spaCy
+- HuggingFace Transformers
+- Text Classification & Sentiment Analysis
+- Embeddings & Vectorization Techniques
 
- 
+### MLOps & Deployment
+- MLflow
+- FastAPI
+- Docker
+- CI/CD (GitHub Actions)
+- Model Monitoring
+- REST API Deployment
 
-### - 🌱 I’m currently learning:
-  
+### Data Engineering & Big Data
+- Data Preprocessing Pipelines
+- ETL Workflows
+- Pandas, NumPy
+- Data Warehousing Concepts
+- Big Data Fundamentals
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Tableau
+- Power BI
+
+### Cloud & Infrastructure
+- AWS (S3, EC2, SageMaker)
+- Azure
+- Google Cloud Platform
+- Cloud-based ML Pipelines
+
+### Databases
+- MySQL
+- PostgreSQL
+
+### Version Control
+- Git
+- GitHub
+
+---
+
+## Current Focus
+
 - Advanced Machine Learning
-- GEN AI
-- Cloud Technologies for AI and ML
+- Generative AI & LLMs
+- Scalable ML Systems
+- Cloud-native AI Solutions
 
+---
 
-## 📫 Let's Connect!
+## Selected Work
 
-<a href="https://www.linkedin.com/in/hariharan-murthy/">
-  <img src="https://imgs.search.brave.com/Qe8jYeUJtOG0ATmMRZahhAes0XVzmFCZiD7e-2AJ6Nc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lYWRu/LXdjMDEtNjQ4MDg2/NS5ueGVkZ2UuaW8v/Y2RuL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE1LzAyL2xpbmtl/ZGluLWljb24ucG5n" alt="LinkedIn" width="30" height="30" />
-</a>
-<br>
-<br>
+My repositories are structured by:
+- Algorithm depth
+- Difficulty levels
+- From-scratch implementations
+- Production-ready ML pipelines
+- Research-style experiments
 
+Each project includes:
+- Mathematical explanation
+- Clean modular code
+- Evaluation metrics
+- Experiment tracking
+- Deployment (where applicable)
 
+---
 
+## Connect With Me
 
-***Thanks for visiting my profile.***
+LinkedIn:  
+https://www.linkedin.com/in/hariharan-murthy/
 
+---
 
-
-
-<!---
-xhariix/xhariix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Building intelligent systems with mathematical rigor and engineering discipline.*
